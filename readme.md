@@ -36,33 +36,33 @@
 </p>
 
 ### Step 2: FastQC
-<p float="left">
+<p>
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2a.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2b.png" width="49%" /> 
 </p>
 
 ### Step 3: Trimming
-<p float="left">
+<p>
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/3a.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/3b.png" width="49%" /> 
 </p>
-<p float="left">
+<p>
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/3c.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/3d.png" width="49%" /> 
 </p>
 
 ### Step 4: Align
-<p float="left">
+<p>
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/4a.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/4b.png" width="49%" /> 
 </p>
 
 ### Step 5: Plot Alignment
-<p>
-  <img align="centre" src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5a.png" width="49%" />
+<p align="centre">
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5a.png" width="49%" />
 </p>
 
-<p float="left">
+<p>
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5b.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5c.png" width="49%" /> 
 </p>
