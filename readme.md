@@ -39,13 +39,13 @@
 
 
 <div class="row">
-   <figure>
+   <div class="column">
       <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2a.png" alt="Fig 2a. Multi QC" style="width:100%">
       <figcaption>Fig 2a. Multi QC</figcaption>
-   </figure>
+   </div>
    
-   <figure>
+   <div class="column">
       <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2b.png" alt="Fig 2b. Single QC" style="width:100%">
       <figcaption>Fig 2b. Single QC</figcaption>
-   </figure>
+   </div>
 </div>
