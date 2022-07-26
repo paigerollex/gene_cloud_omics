@@ -57,4 +57,12 @@
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/4b.png" width="49%" /> 
 </p>
 
+### Step 5: Plot Alignment
+<p float="middle">
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5a.png" width="49%" />
+</p>
 
+<p float="left">
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5b.png" width="49%" />
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5c.png" width="49%" /> 
+</p>
