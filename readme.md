@@ -1,3 +1,6 @@
+# Description
+<a href="http://combio-sifbi.org/GeneCloudOmics/">GeneCloudOmics</a> is a web server for transcriptome data analysis and visualization which supports the analysis of microarray and RNASeq data. Currently, it can conduct ten different bio-statistical analyses that cover the common analytics for gene expression data. Hence, this application serves as an extension of GeneCloudOmics. It helps to provide a convenient pipeline from the preprocessing of sequencing data to the generation of csv files containing raw counts (at the gene, exon and promoter level) without having to use other external applications. These csv files can then be fed into GeneCloudOmics for further downstream analysis.
+
 
 ## Key Features
 1. **FastQC**: Provides quality control for fastq files resulting from high throughput sequencing. Resulting plots can help to identify potential errors during sequencing and guide trimming configuration.
