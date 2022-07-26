@@ -69,6 +69,8 @@
 
 
 ## References
+* Andrews, S. (2010). FastQC:  A Quality Control Tool for High Throughput Sequence Data [Online]. Available online at:
+  <http://www.bioinformatics.babraham.ac.uk/projects/fastqc/>
 * Ward C, To T, Pederson S (2019). “ngsReports: An R Package for managing FastQC reports
   and other NGS related log files.” _Bioinformatics_. doi:10.1093/bioinformatics/btz937
   <https://doi.org/10.1093/bioinformatics/btz937>
@@ -83,3 +85,15 @@
   RNA-seq data by SpliceMap. Nucleic Acids Research, 38(14):4570-8 (2010).
 * Hahne F, Lerch A, Stadler MB. Rbowtie: An R wrapper for bowtie and SpliceMap short read
   aligners. (unpublished)
+* Gaidatzis D, Lerch A, Hahne F, Stadler MB. QuasR: Quantification and annotation of short
+  reads in R. Bioinformatics 31(7):1130-1132 (2015).
+* Kim D, Langmead B, Salzberg SL. HISAT: a fast spliced aligner with low memory
+  requirements. Nat Methods, 12(4):357-60 (2015).
+* Andrey A. Shabalin, Mohammad W. Hattab, Shaunna L. Clark, Robin F. Chan, Gaurav Kumar,
+  Karolina A. Aberg, and Edwin J.C.G. van den Oord. RaMWAS: fast methylome-wide association
+  study pipeline for enrichment platforms, Bioinformatics 2018,
+  <http://dx.doi.org/10.1093/bioinformatics/bty069>
+* Hahne F, Ivanek R. Visualizing Genomic Data Using Gviz and Bioconductor. Methods Mol
+  Biol. 1418:335-51 (2016).
+  
+  
