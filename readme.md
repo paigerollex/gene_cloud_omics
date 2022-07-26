@@ -30,15 +30,18 @@
 
 
 ## Interface
+### Step 1: Upload fastq
 <p float="left">
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/1.png" width="100%" />
 </p>
 
+### Step 2: FastQC
 <p float="left">
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2a.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2b.png" width="49%" /> 
 </p>
 
+### Step 3: Trimming
 <p float="left">
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/3a.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/3b.png" width="49%" /> 
@@ -47,4 +50,11 @@
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/3c.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/3d.png" width="49%" /> 
 </p>
+
+### Step 4: Align
+<p float="left">
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/4a.png" width="49%" />
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/4b.png" width="49%" /> 
+</p>
+
 
