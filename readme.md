@@ -31,21 +31,12 @@
 
 ## Interface
 <div class="row">
-   <figure>
       <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/1.png" alt="Fig 1. Upload fastq" style="width:100%">
       <figcaption>Fig 1. Upload fastq</figcaption>
-   </figure>
 </div>
 
 
-<div class="row">
-   <div class="column">
-      <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2a.png" alt="Fig 2a. Multi QC" style="width:100%">
-      <figcaption>Fig 2a. Multi QC</figcaption>
-   </div>
-   
-   <div class="column">
-      <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2b.png" alt="Fig 2b. Single QC" style="width:100%">
-      <figcaption>Fig 2b. Single QC</figcaption>
-   </div>
-</div>
+<p float="left">
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2a.png" width="100" />
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2b.png" width="100" /> 
+</p>
