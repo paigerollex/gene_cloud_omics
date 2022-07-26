@@ -37,6 +37,6 @@
 
 
 <p float="left">
-  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2a.png" width="50%" />
-  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2b.png" width="50%" /> 
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2a.png" width="49%" />
+  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/2b.png" width="49%" /> 
 </p>
