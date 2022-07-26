@@ -30,6 +30,7 @@
 
 
 ## Interface
-<img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/1.png" alt="Flowers in Chania">
+<div class="row">
+   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/1.png" alt="Fig 1. Upload fastq" style="width:100%">
+</div>
 
-![ScreenShot](https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/1.png)
