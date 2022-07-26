@@ -66,3 +66,20 @@
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5b.png" width="49%" />
   <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5c.png" width="49%" /> 
 </p>
+
+
+## References
+* Ward C, To T, Pederson S (2019). “ngsReports: An R Package for managing FastQC reports
+  and other NGS related log files.” _Bioinformatics_. doi:10.1093/bioinformatics/btz937
+  <https://doi.org/10.1093/bioinformatics/btz937>
+* Wang W, Carroll T (2022). _Rfastp: An Ultra-Fast and All-in-One Fastq Preprocessor
+  (Quality Control, Adapter, low quality and polyX trimming) and UMI Sequence Parsing)._. R
+  package version 1.6.0.
+* Soneson C (2022). _Rhisat2: R Wrapper for HISAT2 Aligner_. R package version 1.12.0,
+  <https://github.com/fmicompbio/Rhisat2>.
+* Langmead B, Trapnell C, Pop M, Salzberg SL. Ultrafast and memory-efficient alignment of
+  short DNA sequences to the human genome. Genome Biology 10(3):R25 (2009).
+* Au KF, Jiang H, Lin L, Xing Y, Wong WH. Detection of splice junctions from paired-end
+  RNA-seq data by SpliceMap. Nucleic Acids Research, 38(14):4570-8 (2010).
+* Hahne F, Lerch A, Stadler MB. Rbowtie: An R wrapper for bowtie and SpliceMap short read
+  aligners. (unpublished)
