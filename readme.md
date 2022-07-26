@@ -58,8 +58,8 @@
 </p>
 
 ### Step 5: Plot Alignment
-<p align="centre">
-  <img src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5a.png" width="49%" />
+<p>
+  <img align="centre" src="https://github.com/paigerollex/gene_cloud_omics/blob/main/screenshots/5a.png" width="49%" />
 </p>
 
 <p float="left">
